@@ -1,6 +1,6 @@
-# Angular BugRepro
+# Angular Minimal Bug Reproduction
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6. You can find out more about the issue that this reproduces here: [Angular Issue: 37875](https://github.com/angular/angular/issues/37875).
 
 ## Development server
 
